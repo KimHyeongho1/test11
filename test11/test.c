@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-
+//10초가 되면 키를 입력해서 10초를 맞추는 프로그램입니다.
 int main(void)
 {
 	time_t start, end;
