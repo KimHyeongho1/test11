@@ -15,6 +15,6 @@ int main(void)
 	end = time(NULL);
 	printf("경과된 시간은 %ld초 입니다.", end - start);
 	//10초면 성공
-	//끌어오기
+	//test
 	return 0;
 }
